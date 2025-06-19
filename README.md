@@ -87,7 +87,11 @@ Below is the detailed field of each sub-dataset.
 | aoi_id                | Id of the AOI                         | Id            |
 | aoi_type              | Type of the AOI                       | Categorical   |
 | **Courier Information**   |                                      |               |
-| courier_id            | Id of the courier                     | Id            |
+| courier_id     
+
+https://github.com/user-attachments/assets/32345a4c-dab6-4f08-be3c-6a9cb38c03df
+
+       | Id of the courier                     | Id            |
 | **Task-event Information**|                                      |               |
 | accept_time           | The time when the courier accepts the task | Time      |
 | accept_gps_time       | The time of the GPS point whose time is the closest to accept time | Time |
