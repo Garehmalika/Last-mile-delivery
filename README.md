@@ -49,7 +49,7 @@ The **LaDe Dataset** is a real-world dataset containing:
 
 Description
 Below is the detailed field of each sub-dataset.
-## Last Miles-P [Pickup Download](https://drive.google.com/file/d/1BWZ1Z-Vg0HoKWIuTyrLKzVTuN38fPB3K/view?usp=sharing)
+## Last Miles-P 
 | Data field                 | Description                                  | Unit/format  |
 |----------------------------|----------------------------------------------|--------------|
 | **Package information**    |                                              |              |
@@ -75,7 +75,7 @@ Below is the detailed field of each sub-dataset.
 | ds                         | The date of the package pickup                | Date         |
 
 
-## Last Miles-D [Delivery Download](https://drive.google.com/file/d/1rTe8l68zin2e0QX1sn4HMGjx2bz1e1qz/view?usp=sharing)
+## Last Miles-D 
 | Data field            | Description                          | Unit/format   |
 |-----------------------|--------------------------------------|---------------|
 | **Package information**   |                                      |               |
